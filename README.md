@@ -1,6 +1,6 @@
 # Phishing Awareness Training
 
-## Project Title
+## Cyber Security Project
 Phishing Awareness Training
 
 ## Prepared By
