@@ -4,7 +4,7 @@
 Phishing Awareness Training
 
 ## Prepared By
-Mayil Raj S Raju
+Mayil Raj S 
 
 ## Course
 Cyber Security
